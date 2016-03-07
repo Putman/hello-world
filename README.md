@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi, i'm just typing some random sh*t here.
+Hope that is fine.
+
+
